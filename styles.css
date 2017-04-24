@@ -1,0 +1,44 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #7d98ad;
+    color: #2d3c49;
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: 100;
+}
+
+h3 {
+    color: #e4ebed;
+}
+
+.bigHr {
+    background-color: #02b3e4;
+    color: #02b3e4;
+    border: solid 2px #02b3e4;
+    height: 2px;
+    max-width: 100%;
+}
+
+.nom {
+    color: #02b3e4;
+    font-style: italic;
+    font-weight: 50;
+    font-size: 2em;
+}
+
+img {
+    vertical-align: middle;
+}
+
+picture img {
+    max-width: 100%;
+    display: block;
+}
+
+.socialSquares {
+    color: #2d3c49;
+    font-size: 14px;
+    margin: 20px;
+}
